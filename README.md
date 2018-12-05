@@ -10,7 +10,7 @@ Initially, I just wanted to show that you need to think twice before using point
 During this researching I found some problem in Ramda. I created issue and Scott Sauyet wrote me function to demonstrate why it's not a bug in Ramda ( https://github.com/ramda/ramda/issues/2731 ).  
 This function:  
 
-```
+```javascript
 const quadraticEquation = (a, b, c) => [
   (-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a),
   (-b + Math.sqrt(b * b - 4 * a * c)) / (2 * a),  
