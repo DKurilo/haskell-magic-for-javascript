@@ -1,4 +1,4 @@
-![Pointfree is elegant](https://raw.githubusercontent.com/DKurilo/haskell-magic-for-javascript/master/pointfree-meme.png =100% "Pointfree is elegant")
+![Pointfree is elegant](https://raw.githubusercontent.com/DKurilo/haskell-magic-for-javascript/master/pointfree-meme.png "Pointfree is elegant" =100%)
 
 # Using Haskell magic for JavaScript  
 
